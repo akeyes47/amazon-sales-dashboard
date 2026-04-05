@@ -1,6 +1,6 @@
-amazon-sales-dashboard
-Interactive Excel dashboard analyzing e-commerce sales data to track revenue, profit, and customer trends
 Amazon Sales Dashboard
+
+Interactive Excel dashboard analyzing e-commerce sales data to track revenue, profit, and customer trends
 
 Overview  
 This project analyzes e-commerce sales data using Excel to identify trends in revenue, profitability, and customer behavior. An interactive dashboard was created to visualize key business metrics and support data-driven insights.
